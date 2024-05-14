@@ -4,7 +4,7 @@
 
 - Створіть схему `pandemic` у базі даних за допомогою SQL-команди.
 - Оберіть її як схему за замовчуванням за допомогою SQL-команди.
-- Імпортуйте дані [infectious_cases.csv](./data/entity.csv) за допомогою Import wizard так.
+- Імпортуйте дані [infectious_cases.csv](./data/infectious_cases.csv) за допомогою Import wizard.
 
 [**SQL**](./task_1.sql)
 
