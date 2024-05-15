@@ -1,4 +1,4 @@
-# Realational Databases: Final Project
+# Relational Databases: Final Project
 
 **1. Завантажте дані:**
 
